@@ -1,4 +1,1 @@
-<!---
-isosnina/isosnina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Аналитик в области маркетинговых исследований рынков. Работаю с большими объемами данных. Анализирую и визуализирую данные с помощью инструментов Excel. Опыт работы с первичной учетной документацией и в консалтинге. Закончила курс по SQL на платформе Stepik. В настоящее время изучаю Python для начинающих. Ищу возможности для дальнейшего профессионального развития в области аналитики данных.
